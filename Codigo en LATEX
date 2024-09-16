@@ -1,0 +1,21 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[spanish]{babel} % Carga el paquete para el idioma español
+\usepackage[T1]{fontenc}    % Codificación de la fuente
+\usepackage[utf8]{inputenc} % Codificación de entrada para caracteres UTF-8
+\usepackage{graphicx} %LaTeX package to import graphics
+\title{HEURISTICA - PROCESOS MENTALES}
+\author{Geraldine Gonzales Pedregal}
+\date{16 de Septiembre de 2024}
+\begin{document}
+\maketitle
+Este artículo presenta la heurística del problema a partir de una discusión teórica que la sustenta y una experiencia de investigación cualitativa con un grupo de profesores de matemáticas que se desempeñan en la educación secundaria general (licenciatura) en el sistema educativo venezolano. 
+El análisis de los relatos biográficos de los docentes entrevistados permitió: \textbf{\textit{1)}} identificar y describir los diferentes procesos característicos de la heurística del problema (identificación, hallazgo, descubrimiento, encuentro, construcción y sensibilidad a los problemas); \textbf{\textit{2)}} esbozar una propuesta para la formación de profesores de matemáticas basada en la resolución de problemas y la heurística de problemas; \textbf{\textit{3)}} reflexionar sobre el potencial de la heurística de problemas en la enseñanza y el aprendizaje de las matemáticas y en la investigación en el campo de la educación matemática.
+
+\begin{figure}[ht] % 'ht' para que la figura esté aquí o en la parte superior
+   \centering % Centra la imagen
+    \includegraphics[width=0.4\textwidth]{HEU 2.jpg} % Ajusta el ancho al 80% del texto
+    \includegraphics[width=0.45\textwidth]{HEU.jpg} % Ajusta el ancho al 80% del texto
+    \caption{\textbf{\textit{a)}}Preocupacion por el estudiante al no resolver, \textbf{\textit{b)}}A través del juego heurístico los niños \textbf{\textit{seleccionan, observan y practican}} diversas formas de manipulación. Con estas experiencias adquieren múltiples \textbf{\textit{competencias}}, además de sentir la satisfacción de haber realizado una actividad por sí mismos, sin la dirección constante del adulto.} % Pie de figura
+    \label{fig:heuristica} % Etiqueta para referencias cruzadas
+\end{figure}
+\end{document}
